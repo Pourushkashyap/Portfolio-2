@@ -26,6 +26,7 @@ const Skills = () => {
       title: "Database Management",
       icon: <Database className="text-emerald-400" size={32} />,
       items: ["MongoDB", "Mongoose", "NoSQL Architecture"],
+      highlight: "Real Time Chat Application"
     },
     {
       title: "Machine Learning and Deep Learning",
